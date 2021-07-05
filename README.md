@@ -4,8 +4,105 @@
 
 
 <div align="center">
-    <img src="Screen/1.png" width="400px" >
+    <img src="Screen/1.png" width="350px" >
 </div>
+
+
+<div align="center">
+    <img src="Screen/2.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/3.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/4.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/5.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/6.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/7.png" width="350px" >
+</div>
+
+<div align="center">
+    <img src="Screen/8.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/9.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/10.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/11.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/12.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/13.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/14.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/15.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/16.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/17.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/18.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/19.png" width="350px" >
+</div>
+
+
+<div align="center">
+    <img src="Screen/20.png" width="350px" >
+</div>
+
+
+
 
 ## Getting Started
 
