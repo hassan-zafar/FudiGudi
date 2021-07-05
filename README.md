@@ -1,6 +1,11 @@
-# flutter_app
+# FudiGudi - Food Delivery and pick and drop service
 
-A new Flutter application.
+
+
+
+<div align="center">
+    <img src="Screen/1.png" width="400px" >
+</div>
 
 ## Getting Started
 
