@@ -1,6 +1,10 @@
 # FudiGudi - Food Delivery and pick and drop service
 
 FudieGudi is a foof pick app. It's main goal is to reduce food wastage.
+<div align="center">
+
+https://user-images.githubusercontent.com/60160952/149606716-cb1a330c-4504-45d3-a534-851ced2b5045.mp4
+</div>
 
 <div align="center">
     <img src="Screen/1.png" height="400px" >
